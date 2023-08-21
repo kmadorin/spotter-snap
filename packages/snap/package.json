@@ -1,11 +1,11 @@
 {
-  "name": "snap",
+  "name": "spotter_snap",
   "version": "0.1.0",
   "private": true,
   "description": "Metamask snap for real-time notifications on potential hacks. Stay secure!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/kmadorin/spotter-snap"
   },
   "license": "(MIT-0 OR Apache-2.0)",
   "main": "src/index.ts",
