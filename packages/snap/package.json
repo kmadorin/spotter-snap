@@ -1,7 +1,7 @@
 {
   "name": "spotter_snap",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "Metamask snap for real-time notifications on potential hacks. Stay secure!",
   "repository": {
     "type": "git",

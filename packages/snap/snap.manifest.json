@@ -4,15 +4,15 @@
   "proposedName": "Spotter Snap.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/kmadorin/spotter-snap"
   },
   "source": {
-    "shasum": "NtgZfBECx74WPwCNRoadHb5zU3bzK8yP3a714g/qfoM=",
+    "shasum": "/olknPtgyEptrxCciVtDsq7mYc9Cyi+iIjsvXcgx6UE=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "iconPath": "images/icon.svg",
-        "packageName": "snap",
+        "packageName": "spotter_snap",
         "registry": "https://registry.npmjs.org/"
       }
     }
