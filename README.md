@@ -17,9 +17,9 @@ yarn install && yarn start
 
 **Real-time notifications** about all exploits detected by Pessimistic Spotter.
 
-Transaction insights, which can warn the user if he will interact with a contract that is highly likely under attack.
+**Transaction insights**, which can warn the user if he will interact with a contract that is highly likely under attack.
 
-Backup account. If the contract is under attack and the user holds funds in it, Spotter Snap can extract these funds from the contract on the user's behalf and store them in an account controlled by Snap. This feature uses Snaps Keyring API and was not fully implemented during the hackathon
+**Backup account**. If the contract is under attack and the user holds funds in it, Spotter Snap can extract these funds from the contract on the user's behalf and store them in an account controlled by Snap. This feature uses Snaps Keyring API and was not fully implemented during the hackathon
 
 ## Next steps:
 
